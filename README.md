@@ -1,1 +1,1 @@
-# Daily-Expense-Sharing-App-Djngo-
+# Daily-Expense-Sharing-App-Django-
